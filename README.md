@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Seefog4mer
+- 👀 I’m interested in game dev
+- 🌱 I’m currently learning C# - GDscript - godot
+- 
